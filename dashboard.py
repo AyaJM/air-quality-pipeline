@@ -529,7 +529,7 @@ st.dataframe(
 st.markdown("---")
 st.markdown(
     "<p style='text-align:center; color:rgba(180,210,255,0.3); font-size:12px;'>"
-    "Global Air Quality Intelligence Dashboard · Cloud Data Pipeline · "
+    "ML-OPS Global Air Quality Intelligence Dashboard · Cloud Data Pipeline · "
     "Azure → Docker → Kubernetes → Jenkins · Built with Streamlit & Plotly"
     "</p>",
     unsafe_allow_html=True,
