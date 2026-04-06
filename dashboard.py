@@ -240,7 +240,7 @@ cagg = country_agg[country_agg["country"].isin(selected_countries)].copy()
 # ─────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-    <h1>🌍 Global Air Quality Intelligence</h1>
+    <h1>🌍ML-OPS Global Air Quality Intelligence</h1>
     <p>REAL-TIME MONITORING · ML-POWERED PREDICTIONS · CLOUD PIPELINE</p>
 </div>
 """, unsafe_allow_html=True)
