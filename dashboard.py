@@ -16,7 +16,7 @@ import io
 # PAGE CONFIG
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="Global Air Quality Intelligence",
+    page_title="ML-OPS Global Air Quality Intelligence",
     page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded",
