@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore")
 # 0. AZURE CONNECTION
 # ─────────────────────────────────────────────
 import os
-
+print("AZURE_CONN_STR =", os.getenv("AZURE_CONN_STR"))
 conn_str = os.getenv("AZURE_CONN_STR")
 client = BlobServiceClient.from_connection_string(conn_str)
 
